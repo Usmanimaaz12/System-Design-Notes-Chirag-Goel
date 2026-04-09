@@ -1,0 +1,27 @@
+This video provides a comprehensive guide on how to approach and crack frontend system design interviews. 
+It covers the essential frameworks, expectations, and strategies needed to succeed in these technical rounds.
+
+Key Takeaways & Frameworks:
+
+Requirement Gathering (4:23 - 12:00): Always begin by clarifying functional requirements (user-facing features) and non-functional requirements (performance, accessibility, security, and scalability). Avoid rushing into code before scoping the problem.
+  
+Tech Choices (15:28 - 19:30): Select libraries and frameworks based on the specific project needs rather than personal bias. Discuss design systems, build tools, and dependencies.
+	
+Component Architecture (19:31 - 22:38): Break down the system into a component hierarchy, focusing on reusability and clean separation of concerns.
+	
+Data APIs and Implementation (22:43 - 31:25): Establish a solid contract with the backend. This includes defining API methods (REST/GraphQL), URL structure, status codes, and handling errors. Mention specific implementation strategies like pagination, debouncing, and caching.
+
+	
+Types of Interviews & Expectations:
+	
+HLD (High-Level Design) vs. LLD (Low-Level Design): Distinguish between these rounds to optimize your time (31:25). Focus on system-level architecture for HLD and granular, implementation-level coding for LLD.
+	
+	Interview Formats (36:12 - 41:22):  (1. System Design, 2. Product Sense, 3. UI Architecture, 4. Machine Coding). Understand the expectations of different companies, ranging from product sense rounds (business and user focus) to UI architecture and machine coding (building functional components).
+	
+Mantras for Success:
+	
+Communication: Keep talking throughout the interview to explain your thought process (44:00).
+	
+Productivity: Get comfortable with tools like draw.io, Miro, or Excalidraw for diagrams to save time (41:23).
+	
+Iteration: Don't try to build everything at once; prioritize features and iteratively improve your design based on interviewer feedback (45:30).
