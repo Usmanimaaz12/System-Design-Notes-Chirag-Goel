@@ -1,0 +1,26 @@
+This video, the third episode of Chakde System Design, provides an introductory overview of the various Frontend System Design components using the analogy of a growing business—specifically, an Indian samosa shop owner named Mottu Bhai—to explain complex architectural concepts.
+
+Key Components Covered:
+
+Architectural Patterns (02:32 - 07:26):(1.Monolith, 2. Micro-Frontend, 3. Hybrid) - Explores strategies for managing growth, such as transitioning from a monolithic structure to Micro-Frontends. 
+	Integration approaches in Micro-Frontends (1. IFrame, 2. Web Components, 3. Module Federation, 4. Route Based)
+	
+Communication Protocols (07:26 - 12:43): Discusses how data is exchanged between client and server, comparing methods like long-polling to more efficient real-time solutions like WebSockets and Server-Sent Events (SSE).
+	
+Availability (12:43 - 15:57): Focuses on maintaining service engagement even when offline, using strategies like caching to simulate functionality.(Service Workers).
+	
+Accessibility (15:57 - 19:29): Highlights the importance of making web applications inclusive for diverse users, including those with different language needs or disabilities.
+	
+Consistency (19:29 - 24:53): Emphasizes maintaining uniform quality across different platforms (browsers/devices) through the use of Design Systems.
+	
+Credibility & Trust (24:53 - 29:08): Covers essential Search Engine Optimization (SEO) techniques to build brand value and visibility. {On-Page(title, description, content,etc) and Off-Page(backlinks, Ads) Optimizations}
+	
+Logging & Monitoring (29:08 - 33:31): Explains how to track user behavior, application performance, and errors to make informed business decisions.
+	
+Databases & Caching (33:31 - 38:00): Discusses optimizing data retrieval to reduce server load and improve speed.
+	
+	Security (38:00 - 42:47): Addresses vulnerabilities and how to protect applications from malicious requests or unauthorized access (e.g., CORS and CSRF, XSS).
+	
+Performance & Optimization (42:47 - 50:02): Focuses on minimizing load times and enhancing user experience through efficient delivery strategies.
+	
+Testing (50:02 - 55:01): Highlights the necessity of different testing layers, including unit, integration, and end-to-end testing, to ensure reliability.
