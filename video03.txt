@@ -19,7 +19,7 @@ Logging & Monitoring (29:08 - 33:31): Explains how to track user behavior, appli
 	
 Databases & Caching (33:31 - 38:00): Discusses optimizing data retrieval to reduce server load and improve speed.
 	
-	Security (38:00 - 42:47): Addresses vulnerabilities and how to protect applications from malicious requests or unauthorized access (e.g., CORS and CSRF, XSS).
+Security (38:00 - 42:47): Addresses vulnerabilities and how to protect applications from malicious requests or unauthorized access (e.g., CORS, CSRF, XSS, MIM).
 	
 Performance & Optimization (42:47 - 50:02): Focuses on minimizing load times and enhancing user experience through efficient delivery strategies.
 	
