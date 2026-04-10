@@ -1,0 +1,15 @@
+Key Performance Optimization Strategies:
+
+JavaScript Loading (2:56 - 8:50): Explains how to leverage async and defer attributes to load scripts in parallel with HTML parsing, preventing render-blocking.
+
+Lazy Loading (8:50 - 20:19): Covers various methods, including the native lazy attribute, the Intersection Observer API for infinite scrolling (12:58), and Content Visibility (17:44) to defer rendering of off-screen elements.
+
+Resource Hinting (22:57 - 32:20): Details how to give the browser hints about future resource needs using preload, prefetch, pre-connect, and pre-render to speed up navigation.
+
+Service Workers & Caching (32:20 - 42:24): Explains how to implement offline capabilities and caching strategies (Cache-first vs. Network-first) to enhance load performance.
+
+Rendering Patterns (42:24 - 50:46): Compares Client-Side Rendering (CSR), Server-Side Rendering (SSR), and Pre-rendering to help choose the right architecture.
+
+Compression (50:46 - 53:57): Discusses reducing asset size through Brotli and Gzip to save bandwidth and improve transmission speed.
+
+Layout Shifts & Repaints (53:57 - 1:10:32): Explains the browser rendering pipeline—layout, paint, and composition. It emphasizes avoiding dimension-changing property updates during animations to maintain a smooth 60fps refresh rate.
